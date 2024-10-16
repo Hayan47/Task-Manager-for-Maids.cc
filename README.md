@@ -1,6 +1,7 @@
 # Task Manager Application
 
-This is a Flutter mobile application that interacts with the DummyJSON API, implements authentication using JWT (JSON Web Token), stores access and refresh tokens in secure storage, and refreshes tokens automatically using Dio. The app also displays a list of to-dos, handling pagination and caching data locally with SQLite.
+note: Valid Credentials : username: emilys, password: emilyspass
+Flutter mobile application that interacts with the DummyJSON API, implements authentication using JWT (JSON Web Token), stores access and refresh tokens in secure storage, and refreshes tokens automatically using Dio. The app also displays a list of to-dos, handling pagination and caching data locally with SQLite, it supports landscape mode, has logging mechanism.
 
 ## Features
 
